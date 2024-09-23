@@ -3,7 +3,7 @@
 <ol>
  <li>mkdir debatiendo </li>
  <li>cd ./debatiendo </li>
- <li>git clone https://github.com/jorameth/debatiendo/tree/main </li>
+ <li>git clone https://github.com/jorameth/debatiendo.git </li>
  <li>npm run build </li>
  <li>npm run dev</li>
 </ol>
