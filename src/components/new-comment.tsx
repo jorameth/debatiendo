@@ -7,7 +7,7 @@ import { IComment, IUser } from '@/app'
 interface NewCommentProps {
   handleupdate: (element: IComment) => void
   userMe: IUser
-  reply: string | undefined
+  reply?: string | undefined
   setIsReply?: (value: boolean) => void
 }
 

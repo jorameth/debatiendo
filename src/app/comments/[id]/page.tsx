@@ -7,7 +7,7 @@ export default function Commentarios({ params }: any) {
     <>
       <Navbar />
       <Hero />
-      <Comments id={params?.id} />
+      <Comments slug={params?.slug} />
     </>
   )
 }

@@ -26,11 +26,11 @@ export function CommentCard({ comment, userMe, handleupdate }: CommentCardProps)
           </Typography>
         </div>
         <div>
-          <div className='flex gap-1 mb-3 items-center'>
+          {/* <div className='flex gap-1 mb-3 items-center'>
             <Typography placeholder='' onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined} variant='small' className=' font-bold flex items-center gap-2 !text-gray-900'>
               {userMe && userMe.name}
             </Typography>
-          </div>
+          </div> */}
           <Typography placeholder='' onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined} className='w-full font-normal mb-4 !text-gray-500'>
             {comment.comentario}
           </Typography>

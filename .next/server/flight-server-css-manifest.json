@@ -1,1 +1,15 @@
-{"cssImports":{"E:\\Daniels_proyect\\src\\app\\layout.tsx":["E:\\Daniels_proyect\\src\\app\\globals.css"]},"cssModules":{"E:\\Daniels_proyect\\src\\app\\page":["E:\\Daniels_proyect\\src\\app\\globals.css"],"E:\\Daniels_proyect\\src\\app\\comments\\[id]\\page":["E:\\Daniels_proyect\\src\\app\\globals.css"],"E:\\Daniels_proyect\\src\\app\\debates\\[slug]\\page":["E:\\Daniels_proyect\\src\\app\\globals.css"]}}
+{
+  "cssImports": {
+    "E:\\debatiendo\\src\\app\\layout.tsx": [
+      "E:\\debatiendo\\src\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "E:\\debatiendo\\src\\app\\page": [
+      "E:\\debatiendo\\src\\app\\globals.css"
+    ],
+    "E:\\debatiendo\\src\\app\\debates\\[slug]\\page": [
+      "E:\\debatiendo\\src\\app\\globals.css"
+    ]
+  }
+}

@@ -88,7 +88,7 @@ export function Comments({ slug }: { slug: string }) {
           <Typography placeholder='' onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined} variant='h4' className='my-6 md:my-14 md:text-center' color='blue-gray'>
             Agrega tu Comentario
           </Typography>
-          <NewComment reply={undefined} userMe={userMe} id={slug} handleupdate={handleupdate} />
+          <NewComment handleupdate={handleupdate} userMe={userMe} reply={undefined} />
         </>
       ) : (
         <>
